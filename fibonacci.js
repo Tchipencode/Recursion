@@ -12,7 +12,7 @@ function fibs(n){
    }
    return r;
 }
-console.log(fibs(4));
+console.log(fibs(5));
 
 function fibsRec(n){
    if(n<2){
@@ -23,4 +23,4 @@ function fibsRec(n){
       return r;
    }  
 }
-console.log(fibsRec(4));;
+console.log(fibsRec(5));;
